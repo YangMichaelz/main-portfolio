@@ -16,9 +16,8 @@ const EXPERIENCE = [
   {
     role: "Software Developer (Co-op)",
     company: "JSI Telecom",
-    period: "Summer 2026",
+    period: "May 2026 - Present",
     description: "",
-    status: "Incoming"
   },
   {
     role: "Software Developer Co-op",
@@ -35,7 +34,14 @@ const EXPERIENCE = [
 ];
 
 const PROJECTS = [
-    {
+  {
+    title: "CanadaChain",
+    type: "Provenance Tracker",
+    tech: ["TypeScript", "React", "Next.js", "Convex", "Tailwind CSS", "Docker", "Python"],
+    description: "A 3rd place submission at Ottawa Red Team Hackathon hackathon with a tamper-evident supplier attestation flow, a public verification UI, and an auto-graded backend that computes Canadian content and Made in Canada / Product of Canada status.",
+    repo: "https://github.com/AceAtDev/redteam-hack"
+  },
+  {
     title: "CrashSentryAI",
     type: "Smart system crash detector (Work in progress)",
     tech: ["C++", "Python", "PDH Library", "Agno", "QT Creator"],
