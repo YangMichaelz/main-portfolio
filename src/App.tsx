@@ -37,8 +37,8 @@ const PROJECTS = [
   {
     title: "CanadaChain",
     type: "Provenance Tracker",
-    tech: ["TypeScript", "React", "Next.js", "Convex", "Tailwind CSS", "Docker", "Python"],
-    description: "A 3rd place submission at Ottawa Red Team Hackathon hackathon with a tamper-evident supplier attestation flow, a public verification UI, and an auto-graded backend that computes Canadian content and Made in Canada / Product of Canada status.",
+    tech: ["TypeScript", "React", "Next.js", "Convex", "Tailwind CSS", "Docker"],
+    description: "A 3rd place submission at Ottawa Red Team Hackathon hackathon with a tamper-evident supplier attestation flow, a public verification UI, and a backend that computes Canadian content and Made in Canada / Product of Canada status.",
     repo: "https://github.com/AceAtDev/redteam-hack"
   },
   {
